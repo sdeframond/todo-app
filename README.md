@@ -1,3 +1,5 @@
+![](https://travis-ci.com/sdeframond/todo-app.svg?branch=master)
+
 ## Description
 
 A simple TODO app, in the form of a Vue SPA.
