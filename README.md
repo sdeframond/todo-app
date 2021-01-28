@@ -79,3 +79,5 @@ As the task is to create a relatively simple ToDo app, there are a few things I 
  - [ ] Integrate with an API for extended features. 
  - [ ] Could allow anonymous usage via LocalStorage and API integration for logged-in users.
  - [ ] Add offline support (PWA).
+test
+test
