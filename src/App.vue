@@ -22,7 +22,7 @@ export default {
 
 #app {
   color: $theme--color-secondary;
-  background: linear-gradient(to bottom, #2ebf91, #8360c3);
+  background: #b4043b;
   min-height: 100vh;
   display: flex;
   align-items: center;
